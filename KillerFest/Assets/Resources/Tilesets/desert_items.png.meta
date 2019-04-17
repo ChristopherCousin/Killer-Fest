@@ -1,0 +1,4324 @@
+fileFormatVersion: 2
+guid: 2eb5885982184544db119870d028d51d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5720239712138240971
+    second: desert_items_0
+  - first:
+      213: -3679801964112363702
+    second: desert_items_1
+  - first:
+      213: 7059214165714884746
+    second: desert_items_2
+  - first:
+      213: -4124883344701294235
+    second: desert_items_3
+  - first:
+      213: 4183014365049751024
+    second: desert_items_4
+  - first:
+      213: 4363360206787630833
+    second: desert_items_5
+  - first:
+      213: 7100798455693533069
+    second: desert_items_6
+  - first:
+      213: -1430129345237487242
+    second: desert_items_7
+  - first:
+      213: 162953661851071251
+    second: desert_items_8
+  - first:
+      213: -6214462812012179496
+    second: desert_items_9
+  - first:
+      213: 4617255875379816761
+    second: desert_items_10
+  - first:
+      213: -8972945410615885512
+    second: desert_items_11
+  - first:
+      213: 198253644710569919
+    second: desert_items_12
+  - first:
+      213: -6622289808673265911
+    second: desert_items_13
+  - first:
+      213: 4674706796764902468
+    second: desert_items_14
+  - first:
+      213: 6602125907467611095
+    second: desert_items_15
+  - first:
+      213: 4722203134308168589
+    second: desert_items_16
+  - first:
+      213: 9089375268708408904
+    second: desert_items_17
+  - first:
+      213: -3840542359994076642
+    second: desert_items_18
+  - first:
+      213: 4229790481051102893
+    second: desert_items_19
+  - first:
+      213: -5311100354669385102
+    second: desert_items_20
+  - first:
+      213: -2931132703799608449
+    second: desert_items_21
+  - first:
+      213: -3473535702536848321
+    second: desert_items_22
+  - first:
+      213: -6460683354137702769
+    second: desert_items_23
+  - first:
+      213: 7641593550113250151
+    second: desert_items_24
+  - first:
+      213: 2971852597190194098
+    second: desert_items_25
+  - first:
+      213: 3747687902492526394
+    second: desert_items_26
+  - first:
+      213: 3633601443797164658
+    second: desert_items_27
+  - first:
+      213: -4894375304318165962
+    second: desert_items_28
+  - first:
+      213: -5277732096157488258
+    second: desert_items_29
+  - first:
+      213: 3190686888039329373
+    second: desert_items_30
+  - first:
+      213: -2669117835345670696
+    second: desert_items_31
+  - first:
+      213: -43386521189279260
+    second: desert_items_32
+  - first:
+      213: -7905185695543326575
+    second: desert_items_33
+  - first:
+      213: -370132108764505662
+    second: desert_items_34
+  - first:
+      213: -7620351669873532311
+    second: desert_items_35
+  - first:
+      213: -3908190074041860820
+    second: desert_items_36
+  - first:
+      213: 9024142166388863711
+    second: desert_items_37
+  - first:
+      213: 7338589180252947689
+    second: desert_items_38
+  - first:
+      213: -8686610393956296151
+    second: desert_items_39
+  - first:
+      213: -6680059573994829628
+    second: desert_items_40
+  - first:
+      213: 4566425059878431958
+    second: desert_items_41
+  - first:
+      213: -3334173104297682312
+    second: desert_items_42
+  - first:
+      213: -6505704032614714306
+    second: desert_items_43
+  - first:
+      213: 6284577625961302674
+    second: desert_items_44
+  - first:
+      213: 3167264229923403446
+    second: desert_items_45
+  - first:
+      213: -4231457308395223501
+    second: desert_items_46
+  - first:
+      213: -5645675249729342181
+    second: desert_items_47
+  - first:
+      213: 7871613508076564883
+    second: desert_items_48
+  - first:
+      213: -361791218656488684
+    second: desert_items_49
+  - first:
+      213: -6488233807826067025
+    second: desert_items_50
+  - first:
+      213: 892916214206139258
+    second: desert_items_51
+  - first:
+      213: -418199590032090499
+    second: desert_items_52
+  - first:
+      213: 8651691045739705489
+    second: desert_items_53
+  - first:
+      213: 2531524191005410147
+    second: desert_items_54
+  - first:
+      213: -8275291380359714481
+    second: desert_items_55
+  - first:
+      213: 7396301491582753900
+    second: desert_items_56
+  - first:
+      213: -3538774129255110793
+    second: desert_items_57
+  - first:
+      213: 2353118718353163646
+    second: desert_items_58
+  - first:
+      213: 592159689287276049
+    second: desert_items_59
+  - first:
+      213: 5834484554367112244
+    second: desert_items_60
+  - first:
+      213: -7588405603659845416
+    second: desert_items_61
+  - first:
+      213: -168657110121211087
+    second: desert_items_62
+  - first:
+      213: -1791098527012351518
+    second: desert_items_63
+  - first:
+      213: 3443955227482308239
+    second: desert_items_64
+  - first:
+      213: 196095996647243967
+    second: desert_items_65
+  - first:
+      213: -6438150271180853568
+    second: desert_items_66
+  - first:
+      213: 3310732801281414883
+    second: desert_items_67
+  - first:
+      213: 1062970875885895195
+    second: desert_items_68
+  - first:
+      213: 1828901972130337932
+    second: desert_items_69
+  - first:
+      213: 4079054598966100045
+    second: desert_items_70
+  - first:
+      213: -6168257312955779038
+    second: desert_items_71
+  - first:
+      213: -5289662307207352129
+    second: desert_items_72
+  - first:
+      213: 408517293236519345
+    second: desert_items_73
+  - first:
+      213: -3843024107435531169
+    second: desert_items_74
+  - first:
+      213: -1888145010037811149
+    second: desert_items_75
+  - first:
+      213: -7692797851537404265
+    second: desert_items_76
+  - first:
+      213: 1208154203825945355
+    second: desert_items_77
+  - first:
+      213: 2984690752804454118
+    second: desert_items_78
+  - first:
+      213: 8902537610302891141
+    second: desert_items_79
+  - first:
+      213: -2920141479882337647
+    second: desert_items_80
+  - first:
+      213: 6407363542370213596
+    second: desert_items_81
+  - first:
+      213: 4450103652528964017
+    second: desert_items_82
+  - first:
+      213: 7186517986132609947
+    second: desert_items_83
+  - first:
+      213: 472453809728185616
+    second: desert_items_84
+  - first:
+      213: -1264065727160611103
+    second: desert_items_85
+  - first:
+      213: -5935104239898049768
+    second: desert_items_86
+  - first:
+      213: -2515451327105237362
+    second: desert_items_87
+  - first:
+      213: -8481585705531415031
+    second: desert_items_88
+  - first:
+      213: -7651017398245293088
+    second: desert_items_89
+  - first:
+      213: 3393297786692042823
+    second: desert_items_90
+  - first:
+      213: 9162295920413472676
+    second: desert_items_91
+  - first:
+      213: -5128935798543064321
+    second: desert_items_92
+  - first:
+      213: 5120596824051125005
+    second: desert_items_93
+  - first:
+      213: 8513152954633010131
+    second: desert_items_94
+  - first:
+      213: 2531114560004069268
+    second: desert_items_95
+  - first:
+      213: 2820708952394763794
+    second: desert_items_96
+  - first:
+      213: 5622869356924019378
+    second: desert_items_97
+  - first:
+      213: -8702279162701983896
+    second: desert_items_98
+  - first:
+      213: 1865248522226912437
+    second: desert_items_99
+  - first:
+      213: -6661980031494203305
+    second: desert_items_100
+  - first:
+      213: -9051599786605656022
+    second: desert_items_101
+  - first:
+      213: 8571861813279472994
+    second: desert_items_102
+  - first:
+      213: 5031402378788479033
+    second: desert_items_103
+  - first:
+      213: 3168961175019966941
+    second: desert_items_104
+  - first:
+      213: -6462229795175843880
+    second: desert_items_105
+  - first:
+      213: 8181907896066450887
+    second: desert_items_106
+  - first:
+      213: 8415388535534092241
+    second: desert_items_107
+  - first:
+      213: 8817733449577688185
+    second: desert_items_108
+  - first:
+      213: 597856036836178321
+    second: desert_items_109
+  - first:
+      213: 3183002952011907775
+    second: desert_items_110
+  - first:
+      213: 5363886908459256327
+    second: desert_items_111
+  - first:
+      213: -1671649568802564994
+    second: desert_items_112
+  - first:
+      213: -2732570325153918100
+    second: desert_items_113
+  - first:
+      213: -5903066684307544566
+    second: desert_items_114
+  - first:
+      213: -4186354134638010230
+    second: desert_items_115
+  - first:
+      213: 7183075926962928846
+    second: desert_items_116
+  - first:
+      213: -1842765757245870400
+    second: desert_items_117
+  - first:
+      213: -435261550089510846
+    second: desert_items_118
+  - first:
+      213: -97184196866565193
+    second: desert_items_119
+  - first:
+      213: -7750940458780386947
+    second: desert_items_120
+  - first:
+      213: -2253851124089811548
+    second: desert_items_121
+  - first:
+      213: 5245711456963061574
+    second: desert_items_122
+  - first:
+      213: -1928469540272051104
+    second: desert_items_123
+  - first:
+      213: 6242860794048949213
+    second: desert_items_124
+  - first:
+      213: 7260546553053920774
+    second: desert_items_125
+  - first:
+      213: -252903865474477284
+    second: desert_items_126
+  - first:
+      213: 7618478331765425078
+    second: desert_items_127
+  - first:
+      213: 846138066184989604
+    second: desert_items_128
+  - first:
+      213: 2948883279061846387
+    second: desert_items_129
+  - first:
+      213: 5348429973981748882
+    second: desert_items_130
+  - first:
+      213: 1775283845611258015
+    second: desert_items_131
+  - first:
+      213: -4620546234890079793
+    second: desert_items_132
+  - first:
+      213: -2106136034039706186
+    second: desert_items_133
+  - first:
+      213: 7199318839071719264
+    second: desert_items_134
+  - first:
+      213: -1730249612796022826
+    second: desert_items_135
+  - first:
+      213: 5469506429938016633
+    second: desert_items_136
+  - first:
+      213: -6354614377561066066
+    second: desert_items_137
+  - first:
+      213: -7171410279681475609
+    second: desert_items_138
+  - first:
+      213: 7861116399413184973
+    second: desert_items_139
+  - first:
+      213: 6120812047880645902
+    second: desert_items_140
+  - first:
+      213: 6456282680783063491
+    second: desert_items_141
+  - first:
+      213: 7898209414739050062
+    second: desert_items_142
+  - first:
+      213: -8416736535167659387
+    second: desert_items_143
+  - first:
+      213: 1659953335010942499
+    second: desert_items_144
+  - first:
+      213: 7853872835357603308
+    second: desert_items_145
+  - first:
+      213: 4357977326172403643
+    second: desert_items_146
+  - first:
+      213: 941929345627796872
+    second: desert_items_147
+  - first:
+      213: -6037293041029656988
+    second: desert_items_148
+  - first:
+      213: 3443533709242148839
+    second: desert_items_149
+  - first:
+      213: -1160788086222764907
+    second: desert_items_150
+  - first:
+      213: -5893344203876132178
+    second: desert_items_151
+  - first:
+      213: 4978824219150485662
+    second: desert_items_152
+  - first:
+      213: -3843200217409751871
+    second: desert_items_153
+  - first:
+      213: 4538502173218926862
+    second: desert_items_154
+  - first:
+      213: 5246886001856605739
+    second: desert_items_155
+  - first:
+      213: -722164188901446536
+    second: desert_items_156
+  - first:
+      213: -874579248035795449
+    second: desert_items_157
+  - first:
+      213: 4597191820135164262
+    second: desert_items_158
+  - first:
+      213: 2848003745499993396
+    second: desert_items_159
+  - first:
+      213: 3888916965680718708
+    second: desert_items_160
+  - first:
+      213: 2445821326442110868
+    second: desert_items_161
+  - first:
+      213: 2964623303852679603
+    second: desert_items_162
+  - first:
+      213: -5952880395202365540
+    second: desert_items_163
+  - first:
+      213: -8022916727095205148
+    second: desert_items_164
+  - first:
+      213: -2325236978255164094
+    second: desert_items_165
+  - first:
+      213: 6965379737385555364
+    second: desert_items_166
+  - first:
+      213: -4231311149770418952
+    second: desert_items_167
+  - first:
+      213: 1528078163291476142
+    second: desert_items_168
+  - first:
+      213: 7437750301739805415
+    second: desert_items_169
+  - first:
+      213: 4104253635306983025
+    second: desert_items_170
+  - first:
+      213: -3695260812036042293
+    second: desert_items_171
+  - first:
+      213: 3081563953518918979
+    second: desert_items_172
+  - first:
+      213: 6739637959927203204
+    second: desert_items_173
+  - first:
+      213: -4221370377720570755
+    second: desert_items_174
+  - first:
+      213: -935101300574435723
+    second: desert_items_175
+  - first:
+      213: 599465178601690969
+    second: desert_items_176
+  - first:
+      213: 4697357313084180315
+    second: desert_items_177
+  - first:
+      213: 2196098089922834541
+    second: desert_items_178
+  - first:
+      213: 5279323562003833906
+    second: desert_items_179
+  - first:
+      213: 1501047337233909038
+    second: desert_items_180
+  - first:
+      213: -7146491602732270395
+    second: desert_items_181
+  - first:
+      213: -6843022556888014219
+    second: desert_items_182
+  - first:
+      213: 631461035222519154
+    second: desert_items_183
+  - first:
+      213: 1593627311275890708
+    second: desert_items_184
+  - first:
+      213: -3663176748693597848
+    second: desert_items_185
+  - first:
+      213: 7718450173455685618
+    second: desert_items_186
+  - first:
+      213: 1667901011003834417
+    second: desert_items_187
+  - first:
+      213: 6293595899365678366
+    second: desert_items_188
+  - first:
+      213: -8056221349454469189
+    second: desert_items_189
+  - first:
+      213: 3070869663731022661
+    second: desert_items_190
+  - first:
+      213: -1982173609529676727
+    second: desert_items_191
+  - first:
+      213: 5491060913266331449
+    second: desert_items_192
+  - first:
+      213: -5438063893220009974
+    second: desert_items_193
+  - first:
+      213: -112370204834638909
+    second: desert_items_194
+  - first:
+      213: 3945477887160386172
+    second: desert_items_195
+  - first:
+      213: -298656626534725889
+    second: desert_items_196
+  - first:
+      213: -8483240405362172506
+    second: desert_items_197
+  - first:
+      213: -7059979560113674037
+    second: desert_items_198
+  - first:
+      213: 5470747774912228609
+    second: desert_items_199
+  - first:
+      213: 9169287558917004753
+    second: desert_items_200
+  - first:
+      213: -7035911081912135052
+    second: desert_items_201
+  - first:
+      213: 8899965087715573015
+    second: desert_items_202
+  - first:
+      213: 4766141107541900349
+    second: desert_items_203
+  - first:
+      213: 2820861013124572552
+    second: desert_items_204
+  - first:
+      213: -1280916203769806964
+    second: desert_items_205
+  - first:
+      213: 5098791125308022618
+    second: desert_items_206
+  - first:
+      213: -5515613118135381850
+    second: desert_items_207
+  - first:
+      213: 4357948829977293114
+    second: desert_items_208
+  - first:
+      213: 6711636765642233967
+    second: desert_items_209
+  - first:
+      213: 1468180821169979536
+    second: desert_items_210
+  - first:
+      213: -8274260071869816812
+    second: desert_items_211
+  - first:
+      213: -8685854380429714629
+    second: desert_items_212
+  - first:
+      213: -1760092671589854530
+    second: desert_items_213
+  - first:
+      213: -5660722750483290907
+    second: desert_items_214
+  - first:
+      213: -1513532529144708774
+    second: desert_items_215
+  - first:
+      213: -3504191158394741213
+    second: desert_items_216
+  - first:
+      213: 4829361313695828792
+    second: desert_items_217
+  - first:
+      213: -3783438498779287365
+    second: desert_items_218
+  - first:
+      213: 6978269297844927305
+    second: desert_items_219
+  - first:
+      213: 295859406184257005
+    second: desert_items_220
+  - first:
+      213: -2096970187414405904
+    second: desert_items_221
+  - first:
+      213: 604204432505025052
+    second: desert_items_222
+  - first:
+      213: 6739195746505229582
+    second: desert_items_223
+  - first:
+      213: 8280548327012305415
+    second: desert_items_224
+  - first:
+      213: 4588401501853835471
+    second: desert_items_225
+  - first:
+      213: 6139580044876948998
+    second: desert_items_226
+  - first:
+      213: -4111797997357249407
+    second: desert_items_227
+  - first:
+      213: -8968570236381557548
+    second: desert_items_228
+  - first:
+      213: -7099763259385730386
+    second: desert_items_229
+  - first:
+      213: 82429217597076084
+    second: desert_items_230
+  - first:
+      213: 6553507612981646732
+    second: desert_items_231
+  - first:
+      213: -2494844371791415914
+    second: desert_items_232
+  - first:
+      213: -4044912604486427629
+    second: desert_items_233
+  - first:
+      213: 3678846379750642132
+    second: desert_items_234
+  - first:
+      213: -8444847337421821324
+    second: desert_items_235
+  - first:
+      213: 9055314724595571354
+    second: desert_items_236
+  - first:
+      213: 1959100013942133511
+    second: desert_items_237
+  - first:
+      213: -5316546709176492557
+    second: desert_items_238
+  - first:
+      213: -6223478872324872452
+    second: desert_items_239
+  - first:
+      213: 3633229137518037271
+    second: desert_items_240
+  - first:
+      213: -7391845134794423254
+    second: desert_items_241
+  - first:
+      213: 6500383896208492257
+    second: desert_items_242
+  - first:
+      213: 4887489639703038429
+    second: desert_items_243
+  - first:
+      213: 7610233699456606717
+    second: desert_items_244
+  - first:
+      213: -2766193073980456342
+    second: desert_items_245
+  - first:
+      213: -9104320679734832097
+    second: desert_items_246
+  - first:
+      213: 8747768857547593556
+    second: desert_items_247
+  - first:
+      213: -7461788276828801693
+    second: desert_items_248
+  - first:
+      213: -6242554721145404029
+    second: desert_items_249
+  - first:
+      213: 6639730265191192925
+    second: desert_items_250
+  - first:
+      213: -80072275996292701
+    second: desert_items_251
+  - first:
+      213: 5466889785402273359
+    second: desert_items_252
+  - first:
+      213: 2924751627806710533
+    second: desert_items_253
+  - first:
+      213: -1236899294279735778
+    second: desert_items_254
+  - first:
+      213: -902237411985239692
+    second: desert_items_255
+  - first:
+      213: 2942056164120402656
+    second: desert_items_256
+  - first:
+      213: -5947381091868486009
+    second: desert_items_257
+  - first:
+      213: -8922887804032306901
+    second: desert_items_258
+  - first:
+      213: 1118935590139063346
+    second: desert_items_259
+  - first:
+      213: 58908734566182271
+    second: desert_items_260
+  - first:
+      213: -2441222370172571086
+    second: desert_items_261
+  - first:
+      213: 3473484550605504300
+    second: desert_items_262
+  - first:
+      213: -261110889168666727
+    second: desert_items_263
+  - first:
+      213: 7284449697447788207
+    second: desert_items_264
+  - first:
+      213: 9192479473994460978
+    second: desert_items_265
+  - first:
+      213: -6514954745628119326
+    second: desert_items_266
+  - first:
+      213: -8846785066399740192
+    second: desert_items_267
+  - first:
+      213: 3963966873774891820
+    second: desert_items_268
+  - first:
+      213: -1423835194589233250
+    second: desert_items_269
+  - first:
+      213: -5124170142653910501
+    second: desert_items_270
+  - first:
+      213: 8746380912746473717
+    second: desert_items_271
+  - first:
+      213: 5351780693212774903
+    second: desert_items_272
+  - first:
+      213: 7597110804141251884
+    second: desert_items_273
+  - first:
+      213: 2306297568287225017
+    second: desert_items_274
+  - first:
+      213: 7592316868768497411
+    second: desert_items_275
+  - first:
+      213: 9194828545652671998
+    second: desert_items_276
+  - first:
+      213: 6670989872584875947
+    second: desert_items_277
+  - first:
+      213: 2229062248452715989
+    second: desert_items_278
+  - first:
+      213: 8173036025016677584
+    second: desert_items_279
+  - first:
+      213: -5400540689086545326
+    second: desert_items_280
+  - first:
+      213: 5685449931167598746
+    second: desert_items_281
+  - first:
+      213: -5504717052580698334
+    second: desert_items_282
+  - first:
+      213: -1868362465094279480
+    second: desert_items_283
+  - first:
+      213: 363712091437983006
+    second: desert_items_284
+  - first:
+      213: 293122171017275027
+    second: desert_items_285
+  - first:
+      213: -8650369867685694648
+    second: desert_items_286
+  - first:
+      213: -664032721080693576
+    second: desert_items_287
+  - first:
+      213: -3329090193244026403
+    second: desert_items_288
+  - first:
+      213: -5414881595622231710
+    second: desert_items_289
+  - first:
+      213: 919761678890402487
+    second: desert_items_290
+  - first:
+      213: -4386442256354441609
+    second: desert_items_291
+  - first:
+      213: -8726177802779080187
+    second: desert_items_292
+  - first:
+      213: 5554806222136049270
+    second: desert_items_293
+  - first:
+      213: 3573320027899880004
+    second: desert_items_294
+  - first:
+      213: 2435040215166806309
+    second: desert_items_295
+  - first:
+      213: 576989838765321473
+    second: desert_items_296
+  - first:
+      213: -2409131400504285229
+    second: desert_items_297
+  - first:
+      213: -8309610389131928159
+    second: desert_items_298
+  - first:
+      213: 8751256402675018977
+    second: desert_items_299
+  - first:
+      213: 3076802323745934036
+    second: desert_items_300
+  - first:
+      213: 3287587247653207203
+    second: desert_items_301
+  - first:
+      213: 3098504687009643685
+    second: desert_items_302
+  - first:
+      213: -8471259129308944224
+    second: desert_items_303
+  - first:
+      213: 5875113355117162734
+    second: desert_items_304
+  - first:
+      213: -5703288823271375750
+    second: desert_items_305
+  - first:
+      213: 474762290362057120
+    second: desert_items_306
+  - first:
+      213: 4197696066328956985
+    second: desert_items_307
+  - first:
+      213: -4770997433060319799
+    second: desert_items_308
+  - first:
+      213: 3833935539899212944
+    second: desert_items_309
+  - first:
+      213: -5039274586408388040
+    second: desert_items_310
+  - first:
+      213: 5382176644205352604
+    second: desert_items_311
+  - first:
+      213: 832437753896465803
+    second: desert_items_312
+  - first:
+      213: -6609689462955901063
+    second: desert_items_313
+  - first:
+      213: -6774328952587042086
+    second: desert_items_314
+  - first:
+      213: -7709598169268850771
+    second: desert_items_315
+  - first:
+      213: -408916941041394020
+    second: desert_items_316
+  - first:
+      213: 8543640230707304181
+    second: desert_items_317
+  - first:
+      213: -1397407166450903930
+    second: desert_items_318
+  - first:
+      213: 7615850099977299050
+    second: desert_items_319
+  - first:
+      213: 1299829944851579144
+    second: desert_items_320
+  - first:
+      213: 2480069738149582798
+    second: desert_items_321
+  - first:
+      213: 3096832087917649760
+    second: desert_items_322
+  - first:
+      213: -6146715067907807725
+    second: desert_items_323
+  - first:
+      213: -5963987794834599767
+    second: desert_items_324
+  - first:
+      213: -7241115952512367520
+    second: desert_items_325
+  - first:
+      213: -6982997568604647301
+    second: desert_items_326
+  - first:
+      213: -8001883204013698583
+    second: desert_items_327
+  - first:
+      213: -2457100716702992378
+    second: desert_items_328
+  - first:
+      213: -4636307149008443187
+    second: desert_items_329
+  - first:
+      213: -1798283029317190253
+    second: desert_items_330
+  - first:
+      213: -1120811134921136788
+    second: desert_items_331
+  - first:
+      213: 2549924174017784471
+    second: desert_items_332
+  - first:
+      213: -7411216691517378794
+    second: desert_items_333
+  - first:
+      213: 4426723647820591289
+    second: desert_items_334
+  - first:
+      213: -1013288136189494751
+    second: desert_items_335
+  - first:
+      213: 9200469213246068907
+    second: desert_items_336
+  - first:
+      213: -7727364072978772509
+    second: desert_items_337
+  - first:
+      213: 1641109965586828401
+    second: desert_items_338
+  - first:
+      213: 7351872387068785657
+    second: desert_items_339
+  - first:
+      213: -4418827335423488225
+    second: desert_items_340
+  - first:
+      213: -1438944632980523951
+    second: desert_items_341
+  - first:
+      213: -882981702755665582
+    second: desert_items_342
+  - first:
+      213: -4582767215405851310
+    second: desert_items_343
+  - first:
+      213: 200264389058274462
+    second: desert_items_344
+  - first:
+      213: 6361051222403207478
+    second: desert_items_345
+  - first:
+      213: 492751800278511860
+    second: desert_items_346
+  - first:
+      213: 8350797456797666132
+    second: desert_items_347
+  - first:
+      213: 135885329146616270
+    second: desert_items_348
+  - first:
+      213: -1746637150474017565
+    second: desert_items_349
+  - first:
+      213: -5968462928305305129
+    second: desert_items_350
+  - first:
+      213: -8595264816901781615
+    second: desert_items_351
+  - first:
+      213: 869680694797139814
+    second: desert_items_352
+  - first:
+      213: -1001347476855207356
+    second: desert_items_353
+  - first:
+      213: -8367383678800386832
+    second: desert_items_354
+  - first:
+      213: 1230921297287332442
+    second: desert_items_355
+  - first:
+      213: 4948619340470407030
+    second: desert_items_356
+  - first:
+      213: -6851145386308166469
+    second: desert_items_357
+  - first:
+      213: 4492013521440590722
+    second: desert_items_358
+  - first:
+      213: 1111906512496496935
+    second: desert_items_359
+  - first:
+      213: 5714274069501724382
+    second: desert_items_360
+  - first:
+      213: -4446608198103600687
+    second: desert_items_361
+  - first:
+      213: -7951479569477467415
+    second: desert_items_362
+  - first:
+      213: 7469752726983690999
+    second: desert_items_363
+  - first:
+      213: -2389644315090189727
+    second: desert_items_364
+  - first:
+      213: -5313067667796247999
+    second: desert_items_365
+  - first:
+      213: -3164610719089735322
+    second: desert_items_366
+  - first:
+      213: -1784091606152658986
+    second: desert_items_367
+  - first:
+      213: 8937670036510558256
+    second: desert_items_368
+  - first:
+      213: -2129868112856293338
+    second: desert_items_369
+  - first:
+      213: 524603464448814806
+    second: desert_items_370
+  - first:
+      213: 6534366960176588586
+    second: desert_items_371
+  - first:
+      213: 468923954846815550
+    second: desert_items_372
+  - first:
+      213: 2313800232752729914
+    second: desert_items_373
+  - first:
+      213: 7517847768601811474
+    second: desert_items_374
+  - first:
+      213: 7178689343867889218
+    second: desert_items_375
+  - first:
+      213: -2400179275111722210
+    second: desert_items_376
+  - first:
+      213: 377263429945905959
+    second: desert_items_377
+  - first:
+      213: -3090826017737395463
+    second: desert_items_378
+  - first:
+      213: -7806790047066461694
+    second: desert_items_379
+  - first:
+      213: -831599304265673012
+    second: desert_items_380
+  - first:
+      213: -2168687014662966402
+    second: desert_items_381
+  - first:
+      213: -203916214443447467
+    second: desert_items_382
+  - first:
+      213: 3706878782761610233
+    second: desert_items_383
+  - first:
+      213: -5762090080800614368
+    second: desert_items_384
+  - first:
+      213: -7021184131982903272
+    second: desert_items_385
+  - first:
+      213: -5366896238092323301
+    second: desert_items_386
+  - first:
+      213: -8129406501003651119
+    second: desert_items_387
+  - first:
+      213: -2510378947635904604
+    second: desert_items_388
+  - first:
+      213: -1191340049152095741
+    second: desert_items_389
+  - first:
+      213: -4282433291220981148
+    second: desert_items_390
+  - first:
+      213: -249357831244897438
+    second: desert_items_391
+  - first:
+      213: 8026025483449128816
+    second: desert_items_392
+  - first:
+      213: -6134373003496456593
+    second: desert_items_393
+  - first:
+      213: 5242188071941596886
+    second: desert_items_394
+  - first:
+      213: -6854367923645506267
+    second: desert_items_395
+  - first:
+      213: -5176560676819249949
+    second: desert_items_396
+  - first:
+      213: -1843625814796602043
+    second: desert_items_397
+  - first:
+      213: -1087896320957318832
+    second: desert_items_398
+  - first:
+      213: 1712837084844494981
+    second: desert_items_399
+  - first:
+      213: 6906074243267765989
+    second: desert_items_400
+  - first:
+      213: 6092139914692923910
+    second: desert_items_401
+  - first:
+      213: 2235857905926677786
+    second: desert_items_402
+  - first:
+      213: -1202935849489245394
+    second: desert_items_403
+  - first:
+      213: -3535465946573320429
+    second: desert_items_404
+  - first:
+      213: -6791762851647338594
+    second: desert_items_405
+  - first:
+      213: -3728245528262447822
+    second: desert_items_406
+  - first:
+      213: -3390465776401974947
+    second: desert_items_407
+  - first:
+      213: -5431968287177312504
+    second: desert_items_408
+  - first:
+      213: -228159933802914120
+    second: desert_items_409
+  - first:
+      213: -8184317484949082326
+    second: desert_items_410
+  - first:
+      213: -4377157101620687779
+    second: desert_items_411
+  - first:
+      213: 7514906388687480251
+    second: desert_items_412
+  - first:
+      213: -9165478843076844453
+    second: desert_items_413
+  - first:
+      213: 3810255972962139920
+    second: desert_items_414
+  - first:
+      213: 1149404170041419992
+    second: desert_items_415
+  - first:
+      213: -4861395008006873122
+    second: desert_items_416
+  - first:
+      213: 6793440747102065583
+    second: desert_items_417
+  - first:
+      213: -5960473008947258264
+    second: desert_items_418
+  - first:
+      213: 369665003237506290
+    second: desert_items_419
+  - first:
+      213: 8186144745652508056
+    second: desert_items_420
+  - first:
+      213: 6091199245187668320
+    second: desert_items_421
+  - first:
+      213: 2273294862855726388
+    second: desert_items_422
+  - first:
+      213: 6776231795000883778
+    second: desert_items_423
+  - first:
+      213: -6793513640224447978
+    second: desert_items_424
+  - first:
+      213: 5177631131017779881
+    second: desert_items_425
+  - first:
+      213: 333186964801812778
+    second: desert_items_426
+  - first:
+      213: 755885157011923439
+    second: desert_items_427
+  - first:
+      213: -4443509016656235720
+    second: desert_items_428
+  - first:
+      213: 1357011632131986950
+    second: desert_items_429
+  - first:
+      213: 4323340929536784749
+    second: desert_items_430
+  - first:
+      213: -1197314304760235409
+    second: desert_items_431
+  - first:
+      213: -1430173840862758741
+    second: desert_items_432
+  - first:
+      213: 7492760933085045373
+    second: desert_items_433
+  - first:
+      213: 8897914077158430404
+    second: desert_items_434
+  - first:
+      213: -1367562932331313777
+    second: desert_items_435
+  - first:
+      213: -8467329353223668081
+    second: desert_items_436
+  - first:
+      213: 8828241686077856201
+    second: desert_items_437
+  - first:
+      213: -8040570098057840401
+    second: desert_items_438
+  - first:
+      213: 2755338799531900097
+    second: desert_items_439
+  - first:
+      213: 2812915727107643649
+    second: desert_items_440
+  - first:
+      213: -5579168146696769912
+    second: desert_items_441
+  - first:
+      213: -3103139448500254967
+    second: desert_items_442
+  - first:
+      213: 7662335757968736600
+    second: desert_items_443
+  - first:
+      213: -9141769475479581523
+    second: desert_items_444
+  - first:
+      213: -1179302057056648757
+    second: desert_items_445
+  - first:
+      213: 4303236649041394880
+    second: desert_items_446
+  - first:
+      213: -7167789296486107158
+    second: desert_items_447
+  - first:
+      213: 37768606558455585
+    second: desert_items_448
+  - first:
+      213: -1160395260628968156
+    second: desert_items_449
+  - first:
+      213: -6254355125712535853
+    second: desert_items_450
+  - first:
+      213: 467556552037952225
+    second: desert_items_451
+  - first:
+      213: 3136298020071297406
+    second: desert_items_452
+  - first:
+      213: -5582396079944502111
+    second: desert_items_453
+  - first:
+      213: -6686921665492205880
+    second: desert_items_454
+  - first:
+      213: 5408319720456650197
+    second: desert_items_455
+  - first:
+      213: -8820613323108520220
+    second: desert_items_456
+  - first:
+      213: 765517873613946865
+    second: desert_items_457
+  - first:
+      213: 8693408132295438158
+    second: desert_items_458
+  - first:
+      213: -3895540470605668023
+    second: desert_items_459
+  - first:
+      213: -7114637602718438954
+    second: desert_items_460
+  - first:
+      213: 920799369719322315
+    second: desert_items_461
+  - first:
+      213: 1612766912118166615
+    second: desert_items_462
+  - first:
+      213: -5622664203026034394
+    second: desert_items_463
+  - first:
+      213: 6763041697862330010
+    second: desert_items_464
+  - first:
+      213: 6418093717906743116
+    second: desert_items_465
+  - first:
+      213: -5080523736784265315
+    second: desert_items_466
+  - first:
+      213: -2568147400985944430
+    second: desert_items_467
+  - first:
+      213: -1793910965776751191
+    second: desert_items_468
+  - first:
+      213: -716074387431652078
+    second: desert_items_469
+  - first:
+      213: -9000560333443661299
+    second: desert_items_470
+  - first:
+      213: 723600850776965414
+    second: desert_items_471
+  - first:
+      213: -6172694326355974089
+    second: desert_items_472
+  - first:
+      213: 6100105344325185113
+    second: desert_items_473
+  - first:
+      213: 4011564194578741608
+    second: desert_items_474
+  - first:
+      213: 3778813832662568659
+    second: desert_items_475
+  - first:
+      213: 2158654895875830807
+    second: desert_items_476
+  - first:
+      213: 881451761864879517
+    second: desert_items_477
+  - first:
+      213: -8810289068434008381
+    second: desert_items_478
+  - first:
+      213: -2159186679709334921
+    second: desert_items_479
+  - first:
+      213: 2175284240629550239
+    second: desert_items_480
+  - first:
+      213: -2724986156750935481
+    second: desert_items_481
+  - first:
+      213: -201921220645930589
+    second: desert_items_482
+  - first:
+      213: 8205144930059486947
+    second: desert_items_483
+  - first:
+      213: -666949003284279734
+    second: desert_items_484
+  - first:
+      213: -5770656979138874056
+    second: desert_items_485
+  - first:
+      213: 4928978076237917743
+    second: desert_items_486
+  - first:
+      213: -2480591622147673632
+    second: desert_items_487
+  - first:
+      213: -8911286359323201568
+    second: desert_items_488
+  - first:
+      213: 1953413861301833242
+    second: desert_items_489
+  - first:
+      213: -8011577515405690210
+    second: desert_items_490
+  - first:
+      213: -5204296813451736346
+    second: desert_items_491
+  - first:
+      213: -248176280131938628
+    second: desert_items_492
+  - first:
+      213: 2384062526748756986
+    second: desert_items_493
+  - first:
+      213: 1753742725650437527
+    second: desert_items_494
+  - first:
+      213: -187569068746793270
+    second: desert_items_495
+  - first:
+      213: 4066742672096380346
+    second: desert_items_496
+  - first:
+      213: -5787105211041212951
+    second: desert_items_497
+  - first:
+      213: -1868134610914846964
+    second: desert_items_498
+  - first:
+      213: 4986579169283562128
+    second: desert_items_499
+  - first:
+      213: -1434997303192062419
+    second: desert_items_500
+  - first:
+      213: 8138126131572850073
+    second: desert_items_501
+  - first:
+      213: -7771761195805847211
+    second: desert_items_502
+  - first:
+      213: -6870209017815793372
+    second: desert_items_503
+  - first:
+      213: 5786730286811197784
+    second: desert_items_504
+  - first:
+      213: -2209561471444303057
+    second: desert_items_505
+  - first:
+      213: -3222355944476080779
+    second: desert_items_506
+  - first:
+      213: 5913741414447216970
+    second: desert_items_507
+  - first:
+      213: -8648500135297146270
+    second: desert_items_508
+  - first:
+      213: -885136241005122527
+    second: desert_items_509
+  - first:
+      213: 965358877443939104
+    second: desert_items_510
+  - first:
+      213: 8356600183554013815
+    second: desert_items_511
+  - first:
+      213: 2814641292081726913
+    second: desert_items_512
+  - first:
+      213: -4069209920701064093
+    second: desert_items_513
+  - first:
+      213: -7989079092343677533
+    second: desert_items_514
+  - first:
+      213: -6564875596369729223
+    second: desert_items_515
+  - first:
+      213: -5172069430096772670
+    second: desert_items_516
+  - first:
+      213: 3972212995084334038
+    second: desert_items_517
+  - first:
+      213: -46393479959233133
+    second: desert_items_518
+  - first:
+      213: 5001437190570070215
+    second: desert_items_519
+  - first:
+      213: -906821455914743158
+    second: desert_items_520
+  - first:
+      213: 5989818069231924524
+    second: desert_items_521
+  - first:
+      213: 1418744723732053639
+    second: desert_items_522
+  - first:
+      213: 8863980702678772712
+    second: desert_items_523
+  - first:
+      213: 5627543241234420960
+    second: desert_items_524
+  - first:
+      213: -2244180206143806204
+    second: desert_items_525
+  - first:
+      213: 5867046828910468505
+    second: desert_items_526
+  - first:
+      213: 342778459978780372
+    second: desert_items_527
+  - first:
+      213: -7103647841405081695
+    second: desert_items_528
+  - first:
+      213: -5515835784102146671
+    second: desert_items_529
+  - first:
+      213: 5088148542951909871
+    second: desert_items_530
+  - first:
+      213: -4101236345015775984
+    second: desert_items_531
+  - first:
+      213: 5450591591165117997
+    second: desert_items_532
+  - first:
+      213: -3234587787407907772
+    second: desert_items_533
+  - first:
+      213: 6175143038194783796
+    second: desert_items_534
+  - first:
+      213: 7225690471697648516
+    second: desert_items_535
+  - first:
+      213: 7618531708721656943
+    second: desert_items_536
+  - first:
+      213: -4296967565933116749
+    second: desert_items_537
+  - first:
+      213: 5787428716122136655
+    second: desert_items_538
+  - first:
+      213: 1675704111016907107
+    second: desert_items_539
+  - first:
+      213: 7429464288290713010
+    second: desert_items_540
+  - first:
+      213: -436691981116274131
+    second: desert_items_541
+  - first:
+      213: 678814739148810885
+    second: desert_items_542
+  - first:
+      213: -8870200947264426446
+    second: desert_items_543
+  - first:
+      213: 5527374623945831536
+    second: desert_items_544
+  - first:
+      213: 3413298947674567122
+    second: desert_items_545
+  - first:
+      213: 1602516420054211381
+    second: desert_items_546
+  - first:
+      213: 5792753702211359183
+    second: desert_items_547
+  - first:
+      213: -3392839653883516154
+    second: desert_items_548
+  - first:
+      213: 4401350805130987197
+    second: desert_items_549
+  - first:
+      213: -1649464018801509811
+    second: desert_items_550
+  - first:
+      213: -6097147841083982454
+    second: desert_items_551
+  - first:
+      213: -6395131457802245024
+    second: desert_items_552
+  - first:
+      213: -2289886129208034544
+    second: desert_items_553
+  - first:
+      213: 7816565745338432153
+    second: desert_items_554
+  - first:
+      213: 5515655249491318386
+    second: desert_items_555
+  - first:
+      213: 4295153604283919628
+    second: desert_items_556
+  - first:
+      213: 1087502933328219676
+    second: desert_items_557
+  - first:
+      213: 486643323395731508
+    second: desert_items_558
+  - first:
+      213: -8406774121817733251
+    second: desert_items_559
+  - first:
+      213: 2655037511427614459
+    second: desert_items_560
+  - first:
+      213: -6157078278191203853
+    second: desert_items_561
+  - first:
+      213: 8264866109022761262
+    second: desert_items_562
+  - first:
+      213: 3701972720837558401
+    second: desert_items_563
+  - first:
+      213: -321895289436900368
+    second: desert_items_564
+  - first:
+      213: 2654958567159144454
+    second: desert_items_565
+  - first:
+      213: 8378710214373679970
+    second: desert_items_566
+  - first:
+      213: -2184412814366682378
+    second: desert_items_567
+  - first:
+      213: 8708122794205469118
+    second: desert_items_568
+  - first:
+      213: -2574929042172545093
+    second: desert_items_569
+  - first:
+      213: 7768640307361148027
+    second: desert_items_570
+  - first:
+      213: -4810981226160600015
+    second: desert_items_571
+  - first:
+      213: 2205339728475706916
+    second: desert_items_572
+  - first:
+      213: 9100749740401127308
+    second: desert_items_573
+  - first:
+      213: 6551946298473377458
+    second: desert_items_574
+  - first:
+      213: -907996095545171049
+    second: desert_items_575
+  - first:
+      213: 1231042768412711709
+    second: desert_items_576
+  - first:
+      213: 6829750233317827431
+    second: desert_items_577
+  - first:
+      213: 5505605142792735931
+    second: desert_items_578
+  - first:
+      213: -7751973908689718666
+    second: desert_items_579
+  - first:
+      213: -1589303036313138527
+    second: desert_items_580
+  - first:
+      213: -4129427920422022829
+    second: desert_items_581
+  - first:
+      213: -7860238065351021997
+    second: desert_items_582
+  - first:
+      213: -2718948796835147305
+    second: desert_items_583
+  - first:
+      213: -1951945075508160295
+    second: desert_items_584
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: desert_items_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 49
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c103012102279a46a86a92d319cce60
+      internalID: 5720239712138240971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 527
+        width: 40
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404aa24a71d403045a34657740677e7b
+      internalID: -3679801964112363702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 673
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d12cc9557dbe3249a0479ee45305792
+      internalID: 7059214165714884746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 528
+        width: 43
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e2f7bdcea5efd4c86d81e6b21621eb
+      internalID: -4124883344701294235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 528
+        width: 42
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67905d0091ea134d894137a848b5f82
+      internalID: 4183014365049751024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 716
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa05538ec4d3414587667d2ce140b8d
+      internalID: 4363360206787630833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 626
+        width: 38
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cdab6f691747e4e82c229f75283c72
+      internalID: 7100798455693533069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 624
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7635c197bafb2894b9004ea73223dee5
+      internalID: -1430129345237487242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 624
+        width: 43
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e7c7af8805e914f8bea199b86715e5
+      internalID: 162953661851071251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 626
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799977046daef524e913aea5f21cf2fc
+      internalID: -6214462812012179496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 624
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fafe45c2139b54ab2adfe6f5daee2e
+      internalID: 4617255875379816761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 673
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7832b983e0558d44f81837b6104847fc
+      internalID: -8972945410615885512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 625
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9518b5b49fb47ed45b764d4e0b4b79fe
+      internalID: 198253644710569919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 672
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890bef47e1f47d7469e5ff10b7112806
+      internalID: -6622289808673265911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 672
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e8ca5bb5c9b8841ac519cba68f7c74
+      internalID: 4674706796764902468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_15
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 672
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5950dab84034f44ba4e8063f014ea7
+      internalID: 6602125907467611095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 673
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e639ed6b51ea0014e879a6ff8fd13fd5
+      internalID: 4722203134308168589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 673
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a3ac0df4d29544cbd3bfe71f940032
+      internalID: 9089375268708408904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_18
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 672
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36f235308859f846a2ec0ea3f1f9f09
+      internalID: -3840542359994076642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_19
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 672
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d47ef01e0eec54aa6120101fda8354
+      internalID: 4229790481051102893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_20
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 672
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb956f78eef53ae4da2bfb4a956e8be9
+      internalID: -5311100354669385102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 624
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19878d72596e78f4db04d0ada95fbe0c
+      internalID: -2931132703799608449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 624
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b302b103c3b681e47b80df78e1197312
+      internalID: -3473535702536848321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 625
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2f1db8d3764b44899d2b332406f46c
+      internalID: -6460683354137702769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 576
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb5d346d8b11474394801af7d993410
+      internalID: 7641593550113250151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_25
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 528
+        width: 45
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020bc8c50a70abc4db6687ac47bfbff4
+      internalID: 2971852597190194098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_26
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 576
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d94d1cd184eb7d47a1e7b25cb9f857c
+      internalID: 3747687902492526394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc8023e23a3eb8469396a5e8040cf0b
+      internalID: 3633601443797164658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_28
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 529
+        width: 49
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62de8c0c571b49b419e79b51420e21d1
+      internalID: -4894375304318165962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 576
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c924574206f3ad459849b77150d0bb0
+      internalID: -5277732096157488258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 577
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9da28cf52a3da44bacbb99071f01d2c
+      internalID: 3190686888039329373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 530
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10471051b5f54374597a256e526620c7
+      internalID: -2669117835345670696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 576
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2fcff0885fd984bafaa6554fe4dec2
+      internalID: -43386521189279260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 577
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df67b52dede194b9a08b546d147d9b
+      internalID: -7905185695543326575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 530
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70cb83eb2c4c6240a7ee84d8f18696b
+      internalID: -370132108764505662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 576
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b015d8413d2f72d448b46fa97f46859e
+      internalID: -7620351669873532311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_36
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 576
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2959f1b2601e7945a242fdd8d3975e6
+      internalID: -3908190074041860820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_37
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 576
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02030fb9238fd44baebe7816cd82db3
+      internalID: 9024142166388863711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_38
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 576
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8deae3893125d94fbe76d59f6a2aa42
+      internalID: 7338589180252947689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_39
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 575
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c6632eb4344f6419111d4759d5af99
+      internalID: -8686610393956296151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_40
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 530
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcc095daaafcde4bab479606f024de9
+      internalID: -6680059573994829628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 528
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8752da92ed33e8442acedf300c287ceb
+      internalID: 4566425059878431958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 528
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c1c258c093f841a1d3e7f72a75509
+      internalID: -3334173104297682312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 530
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464517d6d65321e4090ca1f4e9a36caf
+      internalID: -6505704032614714306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_44
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 530
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4125691252aa32145a59ac970fde5c3f
+      internalID: 6284577625961302674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_45
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 530
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e71d98e4e74a04f89dc5a41f794ac3
+      internalID: 3167264229923403446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_46
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4986f5962d46b764595d39285654bd53
+      internalID: -4231457308395223501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_47
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 528
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b48f0d708ebba14b876900032352da3
+      internalID: -5645675249729342181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_48
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 480
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb072d99305c644e880d584611f4efe
+      internalID: 7871613508076564883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9f98bca9c33148988b91f36144f6d
+      internalID: -361791218656488684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 480
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4cd8971f14524c8d04638e75cf66f
+      internalID: -6488233807826067025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 480
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eaafd555d9c594a832287b511dc813
+      internalID: 892916214206139258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35903a11df9f55043af1d6c8a14d6f25
+      internalID: -418199590032090499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_53
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 480
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2afca79ff3f28439e2d50194885851
+      internalID: 8651691045739705489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_54
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 480
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e67f9dffb7c34fabb397687361fc2
+      internalID: 2531524191005410147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_55
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 480
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ddd6844669e2c489f045dced41e9b0
+      internalID: -8275291380359714481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_56
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 386
+        width: 189
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5210fb409bbf479c92c6c3b77b0ac
+      internalID: 7396301491582753900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 480
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9916ec78baeda844480290bee4801651
+      internalID: -3538774129255110793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_58
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 479
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf23f4b6c9015864ead3f3f9f272085c
+      internalID: 2353118718353163646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_59
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 384
+        width: 94
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc71a8b25e2a7488d939d1f954817b
+      internalID: 592159689287276049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 94
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6504c9cd9409b41b8884862a72db21
+      internalID: 5834484554367112244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_61
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 438
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff8ddfa0b9e014d9a473a24f32687d
+      internalID: -7588405603659845416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_62
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 434
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2018c1fd2b26c964b951face7045ced9
+      internalID: -168657110121211087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 436
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007968611fcfea24e8d62ec443d4a58f
+      internalID: -1791098527012351518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_64
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 433
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae3a8dbd5a59ca40bcdbf20d852a1c0
+      internalID: 3443955227482308239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 336
+        width: 144
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18bd057d487ee440ae6e1be4ddabc49
+      internalID: 196095996647243967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 436
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c7d1e9b27e1d046abda2f4b3d3e0e8
+      internalID: -6438150271180853568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd90687903d36b46a0f2526e527a0e3
+      internalID: 3310732801281414883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_68
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 385
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e58e76757e48234cb79596e058cf7fc
+      internalID: 1062970875885895195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_69
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 384
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf845db300155fa4baa4bfdbd148e776
+      internalID: 1828901972130337932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_70
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 385
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bff7abb49faa041b140067b025bad0
+      internalID: 4079054598966100045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 433
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93180cadc10a247408fb1cb3cf95cf00
+      internalID: -6168257312955779038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522882c203f9f214e900e385809e9c36
+      internalID: -5289662307207352129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 336
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a210d7ac6c0c3548bbc668d89169800
+      internalID: 408517293236519345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_74
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 337
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2540c770dca8b9c4d93e402c5ad37a13
+      internalID: -3843024107435531169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 96
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd301d2aa7c9de448d88f74d8a91329
+      internalID: -1888145010037811149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 240
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e38cbf766b2a4c9b554af67d34a7e
+      internalID: -7692797851537404265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_77
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 339
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0895e4b27f6764c92aabbe4f1f9181
+      internalID: 1208154203825945355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_78
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 336
+        width: 95
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75de7095723219e43aae69bcd018ee5f
+      internalID: 2984690752804454118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 288
+        width: 77
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018ef2cca60313848b7c34c3f419df9d
+      internalID: 8902537610302891141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_80
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 337
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb567297cdfb4b2479ad560ad8a8ee4c
+      internalID: -2920141479882337647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_81
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 335
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb7173dc07f80843b327e2b09513a2d
+      internalID: 6407363542370213596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_82
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 336
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1490dfefd2f41408ca99a7fc0fd34d
+      internalID: 4450103652528964017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_83
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 336
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4d4e4b182f134f96a9678791a8ad9
+      internalID: 7186517986132609947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_84
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 336
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f76498ca86f9049865a602e97c52ab
+      internalID: 472453809728185616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe50cf7719b03f4cae1d587ba19b235
+      internalID: -1264065727160611103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_86
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 288
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e79c0657081842a780b242c7bb7c0
+      internalID: -5935104239898049768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_87
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 290
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955e5d9eac51aad4cb249eeb98f2f40c
+      internalID: -2515451327105237362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_88
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 192
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a1977485a9ade4fa7886bf53dc1721
+      internalID: -8481585705531415031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_89
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 192
+        width: 119
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929a9c484346834b80e0a62c360cac5
+      internalID: -7651017398245293088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_90
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 240
+        width: 89
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a5d43933162534e90f575b25bfd434
+      internalID: 3393297786692042823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_91
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 193
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8a2c0fbe50b0142ac0b6172f53e012
+      internalID: 9162295920413472676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 195
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4bd9eea3a8b0747a82751d98277666
+      internalID: -5128935798543064321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_93
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 197
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62c424d7b45fb4c96b40e6090adbac
+      internalID: 5120596824051125005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 196
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b323f3656305540b91001c3b29f5f3
+      internalID: 8513152954633010131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 195
+        width: 144
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dda7d6151fd50545ae3da42c56dce24
+      internalID: 2531114560004069268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_96
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 146
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b478866651be145a88523b8d511d38
+      internalID: 2820708952394763794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de060f9e512fb2d4f9f0ce982d06f18e
+      internalID: 5622869356924019378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_98
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 147
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d47ffe883199644494980140222df3e
+      internalID: -8702279162701983896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10683e27058977b4d9c590f5f4457f1c
+      internalID: 1865248522226912437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703ad01cb43a93c4ebec070138f8e131
+      internalID: -6661980031494203305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_101
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 147
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd6e1afa1203f4a8f134c3becbd04d
+      internalID: -9051599786605656022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_102
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 144
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b98af6a639e73745aeba8e40960412b
+      internalID: 8571861813279472994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_103
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 145
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1126f8776adaf4448b65bc33e4f4d62
+      internalID: 5031402378788479033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_104
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c251c32b959d3804d9868c3bba7194b2
+      internalID: 3168961175019966941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_105
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 97
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d20e0befceda9447a515c5d67bb6e5c
+      internalID: -6462229795175843880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_106
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 134
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d0f2b9beec9b441b2bfc8db3812260
+      internalID: 8181907896066450887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_107
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 143
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca1b940295d3941979dd838258f173
+      internalID: 8415388535534092241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc3f42d3514ba4bb0332f1b50fb230
+      internalID: 8817733449577688185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af03f31dc8eb7343822d95ddd514563
+      internalID: 597856036836178321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433901da9d09b1b4bb4b6bee82020dad
+      internalID: 3183002952011907775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_111
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c966994a6a990542a75209519025ae5
+      internalID: 5363886908459256327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_112
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91db4995872cfd0408a408bddc33999d
+      internalID: -1671649568802564994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_113
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d6d6f6bd33e64e90eeaa4d65c06f9
+      internalID: -2732570325153918100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_114
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 48
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7c016377039484d9cba4a9ddf7f075
+      internalID: -5903066684307544566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_115
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5506596f65e594b9228d926b582ef2
+      internalID: -4186354134638010230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_items_116
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad767fb25e7524393d83da63bf4c11
+      internalID: 7183075926962928846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2be8c22840a133a47861b4f491dd04c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
