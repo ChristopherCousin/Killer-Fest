@@ -1,7 +1,97 @@
 fileFormatVersion: 2
 guid: bf01b122b982d6945a0d3268750813b9
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5915991274462230345
+    second: Sprite_enemy_scorpion_0
+  - first:
+      213: -2574957293842651089
+    second: Sprite_enemy_scorpion_1
+  - first:
+      213: 4765211840116054306
+    second: Sprite_enemy_scorpion_2
+  - first:
+      213: 7385423701147958788
+    second: Sprite_enemy_scorpion_3
+  - first:
+      213: 1630164131580373894
+    second: Sprite_enemy_scorpion_4
+  - first:
+      213: 5445249860966605119
+    second: Sprite_enemy_scorpion_5
+  - first:
+      213: 8647640232647677402
+    second: Sprite_enemy_scorpion_6
+  - first:
+      213: -5381950274091589758
+    second: Sprite_enemy_scorpion_7
+  - first:
+      213: 3960736776294380376
+    second: Sprite_enemy_scorpion_8
+  - first:
+      213: 1600482877573600789
+    second: Sprite_enemy_scorpion_9
+  - first:
+      213: -918888444287278178
+    second: Sprite_enemy_scorpion_10
+  - first:
+      213: 3796434029672862260
+    second: Sprite_enemy_scorpion_11
+  - first:
+      213: 3760289641101385458
+    second: Sprite_enemy_scorpion_12
+  - first:
+      213: 2884354807763559526
+    second: Sprite_enemy_scorpion_13
+  - first:
+      213: -1826509831884875630
+    second: Sprite_enemy_scorpion_14
+  - first:
+      213: -3225431439175865919
+    second: Sprite_enemy_scorpion_15
+  - first:
+      213: -5845216296784710770
+    second: Sprite_enemy_scorpion_16
+  - first:
+      213: -5284006611131613275
+    second: Sprite_enemy_scorpion_17
+  - first:
+      213: 5306643049529067504
+    second: Sprite_enemy_scorpion_18
+  - first:
+      213: 9195463306219787352
+    second: Sprite_enemy_scorpion_19
+  - first:
+      213: -6375022522050659938
+    second: Sprite_enemy_scorpion_20
+  - first:
+      213: 3862627965647126587
+    second: Sprite_enemy_scorpion_21
+  - first:
+      213: -2557794289294508064
+    second: Sprite_enemy_scorpion_22
+  - first:
+      213: -2422985246354349319
+    second: Sprite_enemy_scorpion_23
+  - first:
+      213: -3030650837800632872
+    second: Sprite_enemy_scorpion_24
+  - first:
+      213: -7858732484314930649
+    second: Sprite_enemy_scorpion_25
+  - first:
+      213: 6960454086522235888
+    second: Sprite_enemy_scorpion_26
+  - first:
+      213: -4294142749552786469
+    second: Sprite_enemy_scorpion_27
+  - first:
+      213: -1177280632405588376
+    second: Sprite_enemy_scorpion_28
+  - first:
+      213: 5583796835226080204
+    second: Sprite_enemy_scorpion_29
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +130,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +159,535 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e31a5a748a73a4ebc5e9615314a59b
+      internalID: 5915991274462230345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef099afdf6f10f140851c566c410b6d3
+      internalID: -2574957293842651089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0097d05401a8324aa8f2762fd0d63ac
+      internalID: 4765211840116054306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db5f8056759d5243a1326cde49196e2
+      internalID: 7385423701147958788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39af41a3edd96814b85bfa0fd361edf9
+      internalID: 1630164131580373894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33255b64ee423ad42a040d04457a03e7
+      internalID: 5445249860966605119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd04aed0289864e9f57f7d9607c2c3
+      internalID: 8647640232647677402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341beefe70570749b2fd094382a699e
+      internalID: -5381950274091589758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f4aa5574b8a546a078d2c06006f05
+      internalID: 3960736776294380376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 64
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55542bdbe374fb4789481dd035badaf
+      internalID: 1600482877573600789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0484461b8ea07054e94da6862f385945
+      internalID: -918888444287278178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdfa3fa41c2a2747864139e9aac3b0c
+      internalID: 3796434029672862260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5799b62ffdfb9104ea1579dcb0b64d9e
+      internalID: 3760289641101385458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318201a2150e16d4ab237b4f0b7369ec
+      internalID: 2884354807763559526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6074c5e9e28398842913f5d347f96fac
+      internalID: -1826509831884875630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0c0571b3429374b9d6b6f103e849e1
+      internalID: -3225431439175865919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdb6da84bb1ae74686bab46442c37f1
+      internalID: -5845216296784710770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f085cb3d1a08922449464ea9f5165800
+      internalID: -5284006611131613275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d727667a9a81447a99e4e34d5be71a
+      internalID: 5306643049529067504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33af1987b74d244438a8e953d58d2c4b
+      internalID: 9195463306219787352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f654348e523c44e807dbb230de7e32
+      internalID: -6375022522050659938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8014af4d0b48640a6df20de63443f3
+      internalID: 3862627965647126587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2eb2e937ba6ce43b3233baeb5a6c98
+      internalID: -2557794289294508064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_enemy_scorpion_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a33fb06192901488ff4901ea88af1a
+      internalID: -2422985246354349319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

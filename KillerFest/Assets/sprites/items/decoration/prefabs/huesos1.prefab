@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 9075895623612515352}
   - component: {fileID: 6712852266572991139}
+  - component: {fileID: 437359679752700484}
+  - component: {fileID: 4041597161322591902}
   m_Layer: 0
   m_Name: huesos1
   m_TagString: Untagged
@@ -67,7 +69,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -2732570325153918100, guid: 2eb5885982184544db119870d028d51d,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -80,3 +82,35 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &437359679752700484
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6312264630053088220}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.13, y: 0.20750856}
+  serializedVersion: 2
+  m_Radius: 0.49212694
+--- !u!58 &4041597161322591902
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6312264630053088220}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.33999997, y: -0.31999993}
+  serializedVersion: 2
+  m_Radius: 0.4061587

@@ -5,24 +5,21 @@ using UnityEngine;
 public class randomSpawn : MonoBehaviour
 {
     [Header("Decoration items for spawn randomly")]
-    public List<GameObject> _Decoration_items;
+    [SerializeField] private List<GameObject> _Decoration_items;
 
     [Header("Vector of floors")]
-    public List<GameObject> _TileFloors;
-    public int itemsToSpaws;
+    [SerializeField] private List<GameObject> _TileFloors;
+    [SerializeField] private int itemsToSpaws;
 
 
-    public GameObject _TileFather;
+    [SerializeField] private GameObject _TileFather;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        foreach (Transform g in _TileFather.transform.GetComponentsInChildren<Transform>())
-        {
-            _TileFloors.Add(g.gameObject);
-        }
-         itemsToSpaws =  (int)(_TileFloors.Count * 0.15f);
+        GetAllMap();
+        itemsToSpaws =  (int)(_TileFloors.Count * 0.15f);
         RandomSpawn();
     }
 
@@ -30,6 +27,19 @@ public class randomSpawn : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void GetAllMap()
+    {
+        if(_TileFather != null)
+        {
+            foreach (Transform g in _TileFather.transform.GetComponentsInChildren<Transform>())
+            {
+                _TileFloors.Add(g.gameObject);
+            }
+        } else {
+            Debug.Log("No father GameObject for take the tileSet MAP");
+        }
     }
 
 
@@ -43,14 +53,12 @@ public class randomSpawn : MonoBehaviour
         {
             do
             {
-                
                 randomNum = Random.Range(0, _TileFloors.Count);
+                Instantiate(_Decoration_items[Random.Range(0, _Decoration_items.Count)], _TileFloors[randomNum].transform.position, Quaternion.identity, transform);
 
-
-                Instantiate(_Decoration_items[Random.Range(0, _Decoration_items.Count)], _TileFloors[randomNum].transform.position, Quaternion.identity);
             } while (oldNums.Contains(randomNum));
+
             oldNums.Add(randomNum);
         }
-
     }
 }

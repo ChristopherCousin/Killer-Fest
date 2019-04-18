@@ -22,8 +22,11 @@ public class controllerJoyStick : MonoBehaviour {
     {
         //Character - Joystick movement
         getJoyStickValues();
-        moveChar();
         animateChar();
+    }
+    private void FixedUpdate()
+    {
+        moveChar();
     }
 
     private void getJoyStickValues()
@@ -41,7 +44,6 @@ public class controllerJoyStick : MonoBehaviour {
     private void animateChar()
     {
         Vector2 direction = Joystick.Direction;
-        anim.speed = 3;
         float x = direction.x;
         float y = direction.y;
 

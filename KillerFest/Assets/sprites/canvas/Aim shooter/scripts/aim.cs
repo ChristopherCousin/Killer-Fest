@@ -39,8 +39,8 @@ public class aim : MonoBehaviour
 
         if (_Camera != null)
         {
-            xLeft = _Camera.transform.position.x - 1.0f;
-            xRight = _Camera.transform.position.x + 1.0f;
+            xLeft = _Camera.transform.position.x - 1.3f;
+            xRight = _Camera.transform.position.x + 1.3f;
             yTop = _Camera.transform.position.y - 1.3f;
             yBottom = _Camera.transform.position.y + 1.3f;
 
