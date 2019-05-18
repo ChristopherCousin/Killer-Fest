@@ -5,14 +5,14 @@ using UnityEngine;
 public class randomSpawn : MonoBehaviour
 {
     [Header("Decoration items for spawn randomly")]
-    [SerializeField] private List<GameObject> _Decoration_items;
+    [SerializeField] private List<GameObject> _Decoration_items = null;
 
     [Header("Vector of floors")]
-    [SerializeField] private List<GameObject> _TileFloors;
+    [SerializeField] private List<GameObject> _TileFloors = null;
     [SerializeField] private int itemsToSpaws;
 
 
-    [SerializeField] private GameObject _TileFather;
+    [SerializeField] private GameObject _TileFather = null;
 
 
     // Start is called before the first frame update

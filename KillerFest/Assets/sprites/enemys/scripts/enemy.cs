@@ -8,8 +8,9 @@ public class enemy : MonoBehaviour
     [SerializeField] private Transform player;
     [SerializeField] private int enemySpeed;
     [SerializeField] private int stoppingDistance;
-
     [SerializeField] private int stopDistance;
+
+    [SerializeField] private List<Vector2> _SpawnMoves;
 
 
     public Animator anim;
@@ -22,6 +23,13 @@ public class enemy : MonoBehaviour
         stoppingDistance = 1;
         enemySpeed = 2;
         FindTarget();
+        InvokeRepeating("RandomMove", 0.0f, 2.0f);
+
+
+        _SpawnMoves.Add (new Vector2(transform.position.x + Random.Range(-3, 3), transform.position.y + Random.Range(-3, 3)));
+        _SpawnMoves.Add(new Vector2(transform.position.x + Random.Range(-3, 3), transform.position.y + Random.Range(-3, 3)));
+        _SpawnMoves.Add(new Vector2(transform.position.x + Random.Range(-3, 3), transform.position.y + Random.Range(-3, 3)));
+        
     }
 
     // Update is called once per frame
@@ -32,14 +40,7 @@ public class enemy : MonoBehaviour
             FollowPlayer();
         }
         animateChar();
-    }
 
-    private void AllFalse()
-    {
-        anim.SetBool("walkLeft", false);
-        anim.SetBool("walkUp", false);
-        anim.SetBool("walkDown", false);
-        anim.SetBool("walkRight", false);
     }
 
     void FindTarget()
@@ -62,8 +63,6 @@ public class enemy : MonoBehaviour
         if (Vector2.Distance(transform.position, player.position) > stoppingDistance && inRange)
         {
             transform.position = Vector2.MoveTowards(transform.position, player.position, enemySpeed * Time.deltaTime);
-        } else {
-            Debug.Log("Attack!");
         }
     }
 
@@ -79,9 +78,10 @@ public class enemy : MonoBehaviour
 
     private void animateChar()
     {
+        Vector3 ab = (player.transform.position - transform.position).normalized;
+        float x = ab.x;
+        float y = ab.y;
 
-        float x = player.transform.position.normalized.x;
-        float y = player.transform.position.normalized.y;
 
         if (x > 0 && y > 0)
         {
@@ -138,6 +138,25 @@ public class enemy : MonoBehaviour
             }
         } else {
             AllFalse();
+        }
+    }
+
+    private void AllFalse()
+    {
+        anim.SetBool("walkLeft", false);
+        anim.SetBool("walkUp", false);
+        anim.SetBool("walkDown", false);
+        anim.SetBool("walkRight", false);
+    }
+
+    private void RandomMove()
+    {
+        if(!inRange)
+        {
+            for(int x = 0; x < _SpawnMoves.Count; x++)
+            {
+                transform.position = Vector2.MoveTowards(transform.position, _SpawnMoves[x], enemySpeed * Time.deltaTime);
+            }
         }
     }
 

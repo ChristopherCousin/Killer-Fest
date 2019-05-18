@@ -5,7 +5,7 @@ using UnityEngine;
 public class aim : MonoBehaviour
 {
     [SerializeField] private Camera _Camera;
-    [SerializeField] private Joystick Joystick;
+    [SerializeField] private Joystick Joystick = null;
 
     //speed of the character or AIM
     [SerializeField] private float Speed = 2;
